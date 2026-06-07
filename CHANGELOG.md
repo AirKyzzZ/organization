@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/AirKyzzZ/organization/compare/v0.4.1...v0.5.0) (2026-06-07)
+
+
+### Features
+
+* add reusable Discord release notify workflow ([#44](https://github.com/AirKyzzZ/organization/issues/44)) ([921e383](https://github.com/AirKyzzZ/organization/commit/921e383efc5acf71df0626c6960154bd51ea792f))
+
 ## [0.4.1](https://github.com/2060-io/organization/compare/v0.4.0...v0.4.1) (2026-03-11)
 
 
